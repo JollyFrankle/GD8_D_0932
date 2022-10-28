@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PBP/GD8_D_0932/app/src/main/res/drawable/bg_circle.xml" value="0.1" />
+        <entry key="..\:/PBP/GD8_D_0932/app/src/main/res/drawable/bg_rounded_rect.xml" value="0.1" />
+        <entry key="..\:/PBP/GD8_D_0932/app/src/main/res/drawable/bg_triangle.xml" value="0.1" />
+        <entry key="..\:/PBP/GD8_D_0932/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PBP/GD8_D_0932/app/src/main/res/layout/layout_tooltip.xml" value="0.46864310148232613" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
